@@ -1,0 +1,3 @@
+[console_scripts]
+keeprunning = keep_running.entry_point:entry_point
+
