@@ -4,6 +4,7 @@ from time import sleep
 
 
 class RunProcess:
+    """ Main class """
 
     _process_name = None
 
